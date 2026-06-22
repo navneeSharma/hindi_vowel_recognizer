@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+debug_input.png
+processed/
+dataset/
+raw_scans/
+*.keras
