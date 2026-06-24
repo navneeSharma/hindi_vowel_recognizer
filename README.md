@@ -1,6 +1,6 @@
 # Hindi Handwritten Vowel Recognizer
 
-An end-to-end machine learning project that recognizes handwritten Devanagari (Hindi) vowels using a custom CNN, built entirely from scratch which includes data created with hand and then used for the project.
+An end-to-end machine learning project that recognizes handwritten Devanagari (Hindi) vowels using a custom CNN, built entirely from scratch which includes hand written data created by myself and my mom.
 
 ---
 
